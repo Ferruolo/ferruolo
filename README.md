@@ -1,6 +1,6 @@
 ## About Andrew Ferruolo
 
-I am a recent University of Michigan Engineering graduate. Since Graduating, I have worked as a contracter and as a founding engineer at a startup.
+I am a recent University of Michigan Engineering graduate. Since graduating, I have worked as a contracter for pMeets.co and as a founding engineer at Gattaca Tech.
 I love building stuff, as you can see here. Here are my favorite projects on here:
 
 1. Stainless - Still in progress, Stainless is a rust-based ML framework. Eventutualy, it aims to provide optimized computation for a wide range of parallelizable operations
