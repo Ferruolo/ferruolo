@@ -11,5 +11,3 @@ I love building stuff, as you can see here. Here are my favorite projects on her
 
 I am currently looking for a job, so if you like what you see, please give me a shout at andrew.ferruolo@gmail.com
 
-
-![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
