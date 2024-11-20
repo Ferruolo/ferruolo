@@ -9,5 +9,4 @@ I love building stuff, as you can see here. Here are my favorite projects on her
   
 4. Chaos Monkey AI - This was a take home for a company, basically, it uses agentic structure to move throughout an app and test it
 
-I am currently looking for a job, so if you like what you see, please give me a shout at andrew.ferruolo@gmail.com
 
