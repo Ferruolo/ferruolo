@@ -1,6 +1,5 @@
 ## About Andrew Ferruolo
 
-I am a recent University of Michigan Engineering graduate. Recently, I have helped to build the core infastructure for Brainwave Analytics, Vector Insights, and pMeets.co. Since graduating, I have worked as a founding engineer at getBesty.ai.
 
 I love building stuff, as you can see here. Here are my favorite projects on here:
 
